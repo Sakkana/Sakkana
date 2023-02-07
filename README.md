@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=Sakkana&show_icons=true&theme=dark&count_private=true)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=Sakkana&show_icons=true&theme=white&count_private=true)
