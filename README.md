@@ -9,3 +9,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on how to fall in sleep better
 - 📫 Don't reach me whicling sleeping 
 --->
+
+
+![GithubStats](https://github-readme-stats.vercel.app/api?username=Sakkana&show_icons=true&theme=dark&count_private=true)
